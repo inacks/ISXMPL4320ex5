@@ -1,5 +1,5 @@
 /*
- * Coding with STM32 for the IS4320 is very simple. It does not require 
+ * Coding with Arduino for the IS4320 is very simple. It does not require 
  * any INACKS-specific library, just the standard Arduino Wire functions:
  * Wire.write(), Wire.read() and related.  
  *
